@@ -1,0 +1,8 @@
+{
+  "name": "ModaFlow SaaS",
+  "description": "Una plataforma SaaS de probador virtual que conecta comerciantes y compradores usando Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
